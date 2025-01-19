@@ -16,8 +16,6 @@
     <div class="input-group realprocode control-group lst increment" >
       <input type="file" name="filenames[]" class="myfrm form-control" multiple>
     </div>
-    
-  
     <button type="submit" class="btn btn-success" style="margin-top:10px">Submit</button>
   
 </form>        
